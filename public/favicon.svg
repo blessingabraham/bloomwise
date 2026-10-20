@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bloomwise">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E05780"/><stop offset="1" stop-color="#8A2846"/></linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#g)"/>
+  <g transform="translate(32 33)">
+    <g fill="#FFF1F4">
+      <ellipse cy="-13" rx="8" ry="12.5" opacity=".96"/>
+      <ellipse cy="-13" rx="8" ry="12.5" opacity=".86" transform="rotate(72)"/>
+      <ellipse cy="-13" rx="8" ry="12.5" opacity=".96" transform="rotate(144)"/>
+      <ellipse cy="-13" rx="8" ry="12.5" opacity=".86" transform="rotate(216)"/>
+      <ellipse cy="-13" rx="8" ry="12.5" opacity=".96" transform="rotate(288)"/>
+    </g>
+    <circle r="7.5" fill="#602437"/>
+    <path d="M-2.6 -3.2 L-5 0 L-2.6 3.2 M2.6 -3.2 L5 0 L2.6 3.2" fill="none" stroke="#FFCAD4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

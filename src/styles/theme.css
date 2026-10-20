@@ -1,0 +1,37 @@
+/* BexMindhub · Rose Royale: semantic tokens. Components use these, never raw hex. */
+:root {
+  --color-background: #602437;
+  --color-surface: #8A2846;
+  --color-surface-hover: #98425C;
+  --color-border: rgba(255, 202, 212, .16);
+  --color-border-strong: rgba(224, 87, 128, .5);
+  --color-primary: #E05780;
+  --color-primary-hover: #E3688D;
+  --color-primary-active: #C14B6E;
+  --color-on-primary: #3A0F1D;
+  --color-secondary: #B9375E;
+  --color-text: #FFF1F4;
+  --color-text-secondary: #E2CCD2;
+  --color-text-muted: #B7959F;
+  --color-meta: #A37A86;
+  --color-success: #22C55E;
+  --color-success-text: #86EFAC;
+  --color-danger-text: #FECACA;
+  --color-slate: #64748B;
+
+  --shadow-md: 0 12px 40px rgba(0, 0, 0, .24);
+  --shadow-lg: 0 20px 70px rgba(0, 0, 0, .38);
+  --shadow-glow: 0 0 30px #E0578026;
+  --glass-blur: blur(20px);
+
+  --radius-sm: .75rem;
+  --radius-md: 1rem;
+  --radius-lg: 1.5rem;
+  --radius-xl: 2rem;
+  --radius-full: 9999px;
+
+  --font-body: 'Poppins', system-ui, sans-serif;
+  --font-pill: 'Jost', 'Poppins', sans-serif;
+
+  color-scheme: dark;
+}
